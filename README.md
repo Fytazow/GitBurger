@@ -3,7 +3,6 @@ Construisez votre propre hamburger en utilisant des fichiers texte pour chaque c
 
 ## **Ingrédients disponibles**
 - 1 🥯 Pain haut : Pain brioché avec des graines de sésame sur le dessus.
-
 - 2 🥬 Salade : Salade croquante et fraîche.
 
 - 3 🍅 Tomate : Tranches de tomate bien mûre.
@@ -15,4 +14,3 @@ Construisez votre propre hamburger en utilisant des fichiers texte pour chaque c
 - 6 🥓 Bacon : Tranche de bacon croustillante.
 
 - 7 🍞 Pain bas : Pain brioché du dessous.
-
